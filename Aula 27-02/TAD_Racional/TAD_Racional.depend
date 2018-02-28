@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1519692560 source:c:\users\servidor01\desktop\tad_racional\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1519693353 source:c:\users\servidor01\desktop\racional.c
+	"racional.h"
+	<stdio.h>
+	<stdlib.h>
+
+1519692943 c:\users\servidor01\desktop\racional.h
+
