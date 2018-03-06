@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1520296185 source:c:\users\servidor01\desktop\dados\diciplina.c
+
+1520296652 source:c:\users\servidor01\desktop\dados\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1520296568 c:\users\servidor01\desktop\dados\diciplina.h
+
